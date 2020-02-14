@@ -1,0 +1,14 @@
+F:\UMN\FM5092\MentoCarloSim\MentoCarloSim\obj\Debug\MentoCarloSim.csprojAssemblyReference.cache
+F:\UMN\FM5092\MentoCarloSim\MentoCarloSim\obj\Debug\MainWindow.g.cs
+F:\UMN\FM5092\MentoCarloSim\MentoCarloSim\obj\Debug\App.g.cs
+F:\UMN\FM5092\MentoCarloSim\MentoCarloSim\obj\Debug\MentoCarloSim_MarkupCompile.cache
+F:\UMN\FM5092\MentoCarloSim\MentoCarloSim\obj\Debug\MentoCarloSim_MarkupCompile.lref
+F:\UMN\FM5092\MentoCarloSim\MentoCarloSim\bin\Debug\MentoCarloSim.exe.config
+F:\UMN\FM5092\MentoCarloSim\MentoCarloSim\bin\Debug\MentoCarloSim.exe
+F:\UMN\FM5092\MentoCarloSim\MentoCarloSim\bin\Debug\MentoCarloSim.pdb
+F:\UMN\FM5092\MentoCarloSim\MentoCarloSim\obj\Debug\MainWindow.baml
+F:\UMN\FM5092\MentoCarloSim\MentoCarloSim\obj\Debug\MentoCarloSim.g.resources
+F:\UMN\FM5092\MentoCarloSim\MentoCarloSim\obj\Debug\MentoCarloSim.Properties.Resources.resources
+F:\UMN\FM5092\MentoCarloSim\MentoCarloSim\obj\Debug\MentoCarloSim.csproj.GenerateResource.cache
+F:\UMN\FM5092\MentoCarloSim\MentoCarloSim\obj\Debug\MentoCarloSim.exe
+F:\UMN\FM5092\MentoCarloSim\MentoCarloSim\obj\Debug\MentoCarloSim.pdb
