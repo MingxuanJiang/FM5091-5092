@@ -1,0 +1,15 @@
+F:\UMN\FM5092\HW_FM5092\MonteCarloSim_CV\MonteCarloSim_CV\bin\Debug\MonteCarloSim_CV.exe.config
+F:\UMN\FM5092\HW_FM5092\MonteCarloSim_CV\MonteCarloSim_CV\bin\Debug\MonteCarloSim_CV.exe
+F:\UMN\FM5092\HW_FM5092\MonteCarloSim_CV\MonteCarloSim_CV\bin\Debug\MonteCarloSim_CV.pdb
+F:\UMN\FM5092\HW_FM5092\MonteCarloSim_CV\MonteCarloSim_CV\obj\Debug\MonteCarloSim_CV.csprojAssemblyReference.cache
+F:\UMN\FM5092\HW_FM5092\MonteCarloSim_CV\MonteCarloSim_CV\obj\Debug\MainWindow.g.cs
+F:\UMN\FM5092\HW_FM5092\MonteCarloSim_CV\MonteCarloSim_CV\obj\Debug\App.g.cs
+F:\UMN\FM5092\HW_FM5092\MonteCarloSim_CV\MonteCarloSim_CV\obj\Debug\MonteCarloSim_CV_MarkupCompile.cache
+F:\UMN\FM5092\HW_FM5092\MonteCarloSim_CV\MonteCarloSim_CV\obj\Debug\MonteCarloSim_CV_MarkupCompile.lref
+F:\UMN\FM5092\HW_FM5092\MonteCarloSim_CV\MonteCarloSim_CV\obj\Debug\MainWindow.baml
+F:\UMN\FM5092\HW_FM5092\MonteCarloSim_CV\MonteCarloSim_CV\obj\Debug\MonteCarloSim_CV.g.resources
+F:\UMN\FM5092\HW_FM5092\MonteCarloSim_CV\MonteCarloSim_CV\obj\Debug\MonteCarloSim_CV.Properties.Resources.resources
+F:\UMN\FM5092\HW_FM5092\MonteCarloSim_CV\MonteCarloSim_CV\obj\Debug\MonteCarloSim_CV.csproj.GenerateResource.cache
+F:\UMN\FM5092\HW_FM5092\MonteCarloSim_CV\MonteCarloSim_CV\obj\Debug\MonteCarloSim_CV.exe
+F:\UMN\FM5092\HW_FM5092\MonteCarloSim_CV\MonteCarloSim_CV\obj\Debug\MonteCarloSim_CV.pdb
+F:\UMN\FM5092\HW_FM5092\MonteCarloSim_CV\MonteCarloSim_CV\obj\Debug\GeneratedInternalTypeHelper.g.cs
