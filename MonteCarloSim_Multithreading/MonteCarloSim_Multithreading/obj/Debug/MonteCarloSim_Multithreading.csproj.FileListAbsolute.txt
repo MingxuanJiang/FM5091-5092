@@ -1,0 +1,9 @@
+F:\UMN\FM5092\HW_FM5092\MonteCarloSim_Multithreading\MonteCarloSim_Multithreading\bin\Debug\MonteCarloSim_Multithreading.exe.config
+F:\UMN\FM5092\HW_FM5092\MonteCarloSim_Multithreading\MonteCarloSim_Multithreading\bin\Debug\MonteCarloSim_Multithreading.exe
+F:\UMN\FM5092\HW_FM5092\MonteCarloSim_Multithreading\MonteCarloSim_Multithreading\bin\Debug\MonteCarloSim_Multithreading.pdb
+F:\UMN\FM5092\HW_FM5092\MonteCarloSim_Multithreading\MonteCarloSim_Multithreading\obj\Debug\MonteCarloSim_Multithreading.csprojAssemblyReference.cache
+F:\UMN\FM5092\HW_FM5092\MonteCarloSim_Multithreading\MonteCarloSim_Multithreading\obj\Debug\MonteCarloSim_Multithreading.Form1.resources
+F:\UMN\FM5092\HW_FM5092\MonteCarloSim_Multithreading\MonteCarloSim_Multithreading\obj\Debug\MonteCarloSim_Multithreading.Properties.Resources.resources
+F:\UMN\FM5092\HW_FM5092\MonteCarloSim_Multithreading\MonteCarloSim_Multithreading\obj\Debug\MonteCarloSim_Multithreading.csproj.GenerateResource.cache
+F:\UMN\FM5092\HW_FM5092\MonteCarloSim_Multithreading\MonteCarloSim_Multithreading\obj\Debug\MonteCarloSim_Multithreading.exe
+F:\UMN\FM5092\HW_FM5092\MonteCarloSim_Multithreading\MonteCarloSim_Multithreading\obj\Debug\MonteCarloSim_Multithreading.pdb
