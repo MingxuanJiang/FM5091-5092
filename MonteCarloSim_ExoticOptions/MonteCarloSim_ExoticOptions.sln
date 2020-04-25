@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonteCarloSim_ExoticOptions", "MonteCarloSim_ExoticOptions\MonteCarloSim_ExoticOptions.csproj", "{3FA3DDC5-CB35-4281-94B9-21E2D2FFA066}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FA3DDC5-CB35-4281-94B9-21E2D2FFA066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FA3DDC5-CB35-4281-94B9-21E2D2FFA066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FA3DDC5-CB35-4281-94B9-21E2D2FFA066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FA3DDC5-CB35-4281-94B9-21E2D2FFA066}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD5A6F9A-4016-4BEA-A95D-883C97A1EFBE}
+	EndGlobalSection
+EndGlobal
