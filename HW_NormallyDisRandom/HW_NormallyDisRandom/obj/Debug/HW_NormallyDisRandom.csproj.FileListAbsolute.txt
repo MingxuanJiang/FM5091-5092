@@ -1,0 +1,12 @@
+C:\Users\31450\source\repos\HW_NormallyDisRandom\HW_NormallyDisRandom\bin\Debug\HW_NormallyDisRandom.exe.config
+C:\Users\31450\source\repos\HW_NormallyDisRandom\HW_NormallyDisRandom\bin\Debug\HW_NormallyDisRandom.exe
+C:\Users\31450\source\repos\HW_NormallyDisRandom\HW_NormallyDisRandom\bin\Debug\HW_NormallyDisRandom.pdb
+C:\Users\31450\source\repos\HW_NormallyDisRandom\HW_NormallyDisRandom\obj\Debug\HW_NormallyDisRandom.csprojAssemblyReference.cache
+C:\Users\31450\source\repos\HW_NormallyDisRandom\HW_NormallyDisRandom\obj\Debug\HW_NormallyDisRandom.exe
+C:\Users\31450\source\repos\HW_NormallyDisRandom\HW_NormallyDisRandom\obj\Debug\HW_NormallyDisRandom.pdb
+F:\UMN\5091\VS\HW_NormallyDisRandom\HW_NormallyDisRandom\bin\Debug\HW_NormallyDisRandom.exe.config
+F:\UMN\5091\VS\HW_NormallyDisRandom\HW_NormallyDisRandom\bin\Debug\HW_NormallyDisRandom.exe
+F:\UMN\5091\VS\HW_NormallyDisRandom\HW_NormallyDisRandom\bin\Debug\HW_NormallyDisRandom.pdb
+F:\UMN\5091\VS\HW_NormallyDisRandom\HW_NormallyDisRandom\obj\Debug\HW_NormallyDisRandom.csprojAssemblyReference.cache
+F:\UMN\5091\VS\HW_NormallyDisRandom\HW_NormallyDisRandom\obj\Debug\HW_NormallyDisRandom.exe
+F:\UMN\5091\VS\HW_NormallyDisRandom\HW_NormallyDisRandom\obj\Debug\HW_NormallyDisRandom.pdb
