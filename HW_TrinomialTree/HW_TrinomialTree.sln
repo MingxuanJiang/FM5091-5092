@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW_TrinomialTree", "HW_TrinomialTree\HW_TrinomialTree.csproj", "{BEB11637-51CA-4E19-91A3-5B5CDEB11480}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEB11637-51CA-4E19-91A3-5B5CDEB11480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEB11637-51CA-4E19-91A3-5B5CDEB11480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEB11637-51CA-4E19-91A3-5B5CDEB11480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEB11637-51CA-4E19-91A3-5B5CDEB11480}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C671A092-91A8-408E-8FAB-06C44C71B71E}
+	EndGlobalSection
+EndGlobal
